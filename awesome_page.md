@@ -1,6 +1,6 @@
 # Our Awesome Page
 
-**something bold**
+**Conflict!**
 
 *something italic!*
 
