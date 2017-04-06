@@ -1,6 +1,6 @@
 # Our Awesome Page
 
-**something bold**
+**what conflict?**
 
 *something italic!*
 
@@ -9,4 +9,4 @@
 
 [awesome link](http://google.com)
 
-![screenshot of us](Workspace 1_010.png)
+![screenshot of us](https://github.com/IkukoS/phase-0-gps-1/blob/master/Workspace%201_010.png)
